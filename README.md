@@ -36,9 +36,9 @@
 
 <img src="assets/framework.png" alt="framework" style="zoom: 50%;" />
 
-- **数据预处理：**我们对 Cityscapes 进行了常用的数据预处理，包括 resize, crop, flip 等。
-- **训练：**基于[Intel® Optimization for PyTorch*](https://www.intel.com/content/www/us/en/developer/tools/oneapi/optimization-for-pytorch.html)，我们实现了一个实时的语义分割网络，在分割精度和推理时间上取得了较好的平衡。
-- **推理：**我们使用了 TTA 提高了模型的分割精度，并对训练好的模型进行量化和基于[OpenVINO™ 工具套件](https://www.intel.cn/content/www/us/en/developer/tools/openvino-toolkit/overview.html)的部署，大大提高了推理速度。
+- **数据预处理**：我们对 Cityscapes 进行了常用的数据预处理，包括 resize, crop, flip 等。
+- **训练**：基于[Intel® Optimization for PyTorch*](https://www.intel.com/content/www/us/en/developer/tools/oneapi/optimization-for-pytorch.html)，我们实现了一个实时的语义分割网络，在分割精度和推理时间上取得了较好的平衡。
+- **推理**：我们使用了 TTA 提高了模型的分割精度，并对训练好的模型进行量化和基于[OpenVINO™ 工具套件](https://www.intel.cn/content/www/us/en/developer/tools/openvino-toolkit/overview.html)的部署，大大提高了推理速度。
 
 ## 技术方案
 
