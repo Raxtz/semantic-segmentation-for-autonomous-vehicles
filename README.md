@@ -71,6 +71,7 @@
 - 计算平台：Intel® DevCloud 云测试环境
 
 <img src="assets/table.png" alt="table" style="zoom:48%;" />
+
 ## 总结
 
 本方案的亮点总结如下：
