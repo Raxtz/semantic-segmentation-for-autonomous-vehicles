@@ -61,14 +61,14 @@
 
 <img src="assets/quant.png" alt="quant" style="zoom: 50%;" />
 
-- 量化：将模型参数从原本的 float32 量化为 int8 ，减少了模型推理的计算量。
-- 部署：使用 Intel OpenVINO 对量化后的模型进行部署，进一步降低推理时间。
+- **量化**：将模型参数从原本的 float32 量化为 int8 ，减少了模型推理的计算量。
+- **部署**：使用 Intel OpenVINO 对量化后的模型进行部署，进一步降低推理时间。
 
 ### 指标
 
-- 计算设备：Intel® Xeon® Gold 6128 CPU @ 3.40GHz
+- **计算设备**：Intel® Xeon® Gold 6128 CPU @ 3.40GHz
 
-- 计算平台：Intel® DevCloud 云测试环境
+- **计算平台**：Intel® DevCloud 云测试环境
 
 <img src="assets/table.png" alt="table" style="zoom:48%;" />
 
