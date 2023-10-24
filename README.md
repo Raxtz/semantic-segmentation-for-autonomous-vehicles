@@ -1,4 +1,4 @@
-# Semantic Segmentation for Autonomous Driving Vehicles
+# Semantic Segmentation for Autonomous Vehicles
 
 [主题一：自动驾驶车辆的对象检测](www.dev4one.com) 解决方案。
 
@@ -44,7 +44,7 @@
 
 ### 轻量级语义分割网络[1]
 
-<img src="assets/model.png" alt="model"  />
+<img src="assets/model.png" alt="model" style="zoom: 50%;"  />
 
 - 从图像提取细节，指导浅层模型学习**空间信息**；
 - 从分割标签中获取内容，指导深层模型学习**语义信息**；
@@ -70,10 +70,7 @@
 
 - 计算平台：Intel® DevCloud 云测试环境
 
-<img src="assets/table1.png" alt="table1" style="zoom:48%;" />
-
-<img src="assets/table2.png" alt="table2" style="zoom:48%;" />
-
+<img src="assets/table.png" alt="table" style="zoom:48%;" />
 ## 总结
 
 本方案的亮点总结如下：
