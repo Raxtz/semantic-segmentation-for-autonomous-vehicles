@@ -72,6 +72,16 @@
 
 <img src="assets/table.png" alt="table" style="zoom:48%;" />
 
+## 分割样例
+
+原图：berlin_000097_000019_leftImg8bit.png
+
+![berlin_000097_000019_leftImg8bit](assets/berlin_000097_000019_leftImg8bit.png)
+
+分割：
+
+![output_berlin_000097_000019_leftImg8bit_0](assets/output_berlin_000097_000019_leftImg8bit_0.png)
+
 ## 总结
 
 本方案的亮点总结如下：
